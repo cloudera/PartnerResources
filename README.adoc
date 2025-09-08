@@ -121,7 +121,7 @@ https://clouderapartneracademy.learnupon.com/content-details/89672/1[Take up the
 
 . https://docs.cloudera.com/cdp-public-cloud/cloud/getting-started/topics/cdp-deploy_cdp_using_terraform.html[Deploy Cloudera using Terraform]
 
-. link:../ClouderaSetup/OnCloud/AWS/[Deploy Cloudera using **AutoClouderaDeploy** Automation]
+. link:https://github.com/cloudera/ClouderaSetup/tree/main/OnCloud/AWS[Deploy Cloudera using **AutoClouderaDeploy** Automation]
 
 * *AZURE*
 
