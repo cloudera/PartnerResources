@@ -177,3 +177,9 @@ TBD !!! - Calendar
 | mailto:sbalachandar@cloudera.com[Shreshta Balachandar] | AMER
 | mailto:ygulati@cloudera.com[Yash Gulati] | APAC
 |===
+
+---
+
+**Copyright Notice**  
+All material is Copyright (c) 2020-2025 Cloudera, Inc. unless stated otherwise.
+
